@@ -1,11 +1,35 @@
----
-title: "test_website"
----
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
+```{r, echo=FALSE}
+knitr::opts_chunk$set(dpi = 1200) 
 ```
+
+```{r head_plot, echo=FALSE, fig.height=0.75, fig.width = 10}
+#| column: screen
+#| 
+library(ggplot2)
+library(ggridges)
+
+my_palette <- c("#40b149", "#497abd", "#fccc0a", "#66c06d", "#6d94ca")
+
+diamonds |> 
+  dplyr::filter(price < 3000) |> 
+  ggplot(aes(x = price, y = cut, fill = cut)) +
+  geom_density_ridges2(bandwidth = 80, 
+                       color = "white") +
+  theme_ridges() + 
+  scale_fill_manual(values = my_palette) + 
+  scale_color_manual(values = "white") + 
+  theme_void() +
+  theme(legend.position = "none", 
+        panel.background = element_rect(fill = "#f8f9fa", 
+                                        color = "#f8f9fa"), 
+        plot.background = element_rect(fill = "#f8f9fa", 
+                                       color = "#f8f9fa")
+        ) 
+
+```
+
+::: column-margin
+![](images/headshot.png){width="100%"}
+:::
+
+**GPS Data Consulting** provides expertise in evaluation, data analysis and reporting. We focus on effective visualisations for story telling that empower decision makers to move from talk to action.

@@ -2,16 +2,19 @@ project:
   type: website
 
 website:
-  title: "test_website"
+  title: "GPS Data Consulting"
   navbar:
+    logo: images/logo_stacked.png
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - services.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      - custom_theme.scss
     css: styles.css
     toc: true
 

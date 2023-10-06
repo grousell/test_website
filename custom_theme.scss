@@ -1,0 +1,27 @@
+/*-- scss:defaults --*/
+/*-- Define colors for later use */
+
+$white:     #fff;
+$grey-100:  #f8f9fa;
+$grey-500:  #adb5bd;
+$grey-900:  #212529;
+
+$primary:   #497abd;
+$secondary: #40b149;
+$tertiary:  #fccc0a;
+
+$body-bg: #f8f9fa;
+
+
+/*-- Define Bootstrap color variables --*/
+
+//Code block background: 
+$code-block-bg: $grey-500;
+// Inline code color: 
+$code-color: $grey-900;
+//Serif Font for page
+$font-family-sans-serif: "Open Sans", "Cambria", "Georgia", "serif";
+// Base font size
+$font-size-base: 1.5rem;
+
+/*-- scss:rules --*/

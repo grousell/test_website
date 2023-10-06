@@ -1,9 +1,5 @@
----
-title: "About"
----
+::: column-margin
+![](images/headshot.png){width="100%"}
+:::
 
-About this site
-
-```{r}
-1 + 1
-```
+**Greg Rousell** has been an educational researcher, evaluator and data analyst for over 15 years with proven skills in data management, analysis and visualisation to support decision makers at all levels of an organization. Having been directly involved in the development, collection and analysis of identity data as outlined by Ontario's Anti-Racism directorate, Greg is well positioned to support your organization meet the requirements of the prescribed data standards.

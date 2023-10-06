@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "GPS Data Consulting",
+    "section": "",
+    "text": "Greg Rousell has been an educational researcher, evaluator and data analyst for over 15 years with proven skills in data management, analysis and visualisation to support decision makers at all levels of an organization. Having been directly involved in the development, collection and analysis of identity data as outlined by Ontario’s Anti-Racism directorate, Greg is well positioned to support your organization meet the requirements of the prescribed data standards."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "GPS Data Consulting",
+    "section": "",
+    "text": "GPS Data Consulting provides expertise in evaluation, data analysis and reporting. We focus on effective visualisations for story telling that empower decision makers to move from talk to action."
+  },
+  {
+    "objectID": "services.html",
+    "href": "services.html",
+    "title": "Services:",
+    "section": "",
+    "text": "Services:\n\nData management, analysis and visualization\n\nSupport decision makers in your organization with custom, easy to read reports\n\nEquip decision makers with the tools necessary for evidence-based decisions\n\nGPS works with your team to design and create reports to help you leverage the power of your data\n\nReports can be customized to the audience in a variety of formats (PDF, PowerPoint, Word, online dashboard)\n\nAdvice / guidance provide direction on on best practices for data management, curation and workflows\n\n\n\nBusiness Intelligence Solutions\n\nMost “plug and play” BI solutions rarely work out of the box and require ongoing support to maintain.\n\nGPS will build custom dashboards and interactive reports to meet the unique needs of your organization, as well as train your staff to maintain existing, and develop new reports\n\nLeveraging machine learning\n\n\n\nTraining in various data analysis and reporting tools\n\nIntroduction to R\n\nAdvanced Analysis in R\n\nIntroduction to RMarkdown\n\nAdvanced RMarkdown\n\nData Visualisation\n\nMachine Learning\n\n\n\nCustom R Package development\n\nCreate customized visualizations in R and Shiny with a dedicated package to match your organizations unique visual identity\n\n\n\nSurvey Design and Data Collection\n\nGPS has extensive experience with the development, collection and analysis of survey data"
+  },
+  {
+    "objectID": "services.html#services",
+    "href": "services.html#services",
+    "title": "GPS Data Consulting",
+    "section": "",
+    "text": "Support decision makers in your organization with custom, easy to read reports\n\nEquip decision makers with the tools necessary for evidence-based decisions\n\nGPS works with your team to design and create reports to help you leverage the power of your data\n\nReports can be customized to the audience in a variety of formats (PDF, PowerPoint, Word, online dashboard)\n\nAdvice / guidance provide direction on on best practices for data management, curation and workflows\n\n\n\n\n\nMost “plug and play” BI solutions rarely work out of the box and require ongoing support to maintain.\n\nGPS will build custom dashboards and interactive reports to meet the unique needs of your organization, as well as train your staff to maintain existing, and develop new reports\n\nLeveraging machine learning\n\n\n\n\n\nIntroduction to R\n\nAdvanced Analysis in R\n\nIntroduction to RMarkdown\n\nAdvanced RMarkdown\n\nData Visualisation\n\nMachine Learning\n\n\n\n\n\nCreate customized visualizations in R and Shiny with a dedicated package to match your organizations unique visual identity\n\n\n\n\n\nGPS has extensive experience with the development, collection and analysis of survey data"
+  }
+]
