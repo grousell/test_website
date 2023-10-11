@@ -1,28 +1,32 @@
+# Services
 
-# Services:
+## Data management, analysis and visualization
 
-### Data management, analysis and visualization  
-- Support decision makers in your organization with custom, easy to read reports  
-- Equip decision makers with the tools necessary for evidence-based decisions  
-- GPS works with your team to design and create reports to help you leverage the power of your data  
-- Reports can be customized to the audience in a variety of formats  (PDF, PowerPoint, Word, online dashboard)  
-- Advice / guidance provide direction on on best practices for data management,  curation and workflows 
-	
-### Business Intelligence Solutions
-- Most "plug and play" BI solutions rarely work out of the box and require ongoing support to maintain.  
-- GPS will build custom dashboards and interactive reports to meet the unique needs of your organization, as well as train your staff to maintain existing, and develop new reports  
-- Leveraging machine learning   
+-   Support decision makers in your organization with custom, easy to read reports\
+-   Equip decision makers with the tools necessary for evidence-based decisions\
+-   GPS works with your team to design and create reports to help you leverage the power of your data\
+-   Reports can be customized to the audience in a variety of formats (PDF, PowerPoint, Word, online dashboard)\
+-   Advice / guidance provide direction on on best practices for data management, curation and workflows
 
-### Training in various data analysis and reporting tools
-- Introduction to R  
-- Advanced Analysis in R  
-- Introduction to RMarkdown  
-- Advanced RMarkdown  
-- Data Visualisation  
-- Machine Learning  
+## Business Intelligence Solutions
 
-### Custom R Package development  
-- Create customized visualizations in R and Shiny with a dedicated package to match your organizations unique visual identity 
+-   Most "plug and play" BI solutions rarely work out of the box and require ongoing support to maintain.\
+-   GPS will build custom dashboards and interactive reports to meet the unique needs of your organization, as well as train your staff to maintain existing, and develop new reports\
+-   Leveraging machine learning
 
-### Survey Design and Data Collection  
-- GPS has extensive experience with the development, collection and analysis of survey data
+## Training in various data analysis and reporting tools
+
+-   Introduction to R\
+-   Advanced Analysis in R\
+-   Introduction to RMarkdown\
+-   Advanced RMarkdown\
+-   Data Visualisation\
+-   Machine Learning
+
+## Custom R Package development
+
+-   Create customized visualizations in R and Shiny with a dedicated package to match your organizations unique visual identity
+
+## Survey Design and Data Collection
+
+-   GPS has extensive experience with the development, collection and analysis of survey data

@@ -1,5 +1,15 @@
-::: column-margin
-![](images/headshot.png){width="100%"}
-:::
+---
+title: "Greg Rousell"
+about:
+  template: solana
+  image: images/headshot_circle.png
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/gregrousell/
+    - icon: twitter
+      text: Twitter (or X)
+      href: https://twitter.com/GregRousell
+---
 
-**Greg Rousell** has been an educational researcher, evaluator and data analyst for over 15 years with proven skills in data management, analysis and visualisation to support decision makers at all levels of an organization. Having been directly involved in the development, collection and analysis of identity data as outlined by Ontario's Anti-Racism directorate, Greg is well positioned to support your organization meet the requirements of the prescribed data standards.
+**Greg** has worked as an educational researcher, evaluator and data analyst for over 15 years. With proven skills in data management, analysis and visualisation, Greg supports decision makers at all levels of an organization. Having been directly involved in the development, collection and analysis of identity data as outlined by Ontario's Anti-Racism directorate, he is well positioned to support your organization meet the requirements of the prescribed data standards.

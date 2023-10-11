@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "GPS Data Consulting"
@@ -8,12 +9,15 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - services.qmd
+      - href: about.qmd
+        text: About
+      - href: services.qmd
+        text: Services
 
 format:
   html:
-    theme: 
+    theme:
+      - default
       - custom_theme.scss
     css: styles.css
     toc: true

@@ -22,6 +22,28 @@ $code-color: $grey-900;
 //Serif Font for page
 $font-family-sans-serif: "Open Sans", "Cambria", "Georgia", "serif";
 // Base font size
-$font-size-base: 1.5rem;
+$font-size-base: 1.3rem;
 
 /*-- scss:rules --*/
+
+h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
+    color: $primary;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: 600;
+}
+
+h1, .h1, {
+    font-size: 1.8em;
+    }
+
+h2, .h2, {
+    font-size: 1.4em;
+}
+
+/* Remove title from NavBar, using only Logo */
+.navbar-brand{
+  display:none;
+  
+}
+

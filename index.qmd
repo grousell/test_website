@@ -29,7 +29,7 @@ diamonds |>
 ```
 
 ::: column-margin
-![](images/headshot.png){width="100%"}
+![](images/headshot_circle.png){width="100%"}
 :::
 
 **GPS Data Consulting** provides expertise in evaluation, data analysis and reporting. We focus on effective visualisations for story telling that empower decision makers to move from talk to action.
